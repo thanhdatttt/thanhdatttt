@@ -4,10 +4,10 @@
 
 <br clear="both">
 
-<h1 align="center">Hi there 👋 I'm Thanh Dat Pham</h1>
+<h1 align="center">Hi there 👋 I'm Pham Thanh Dat</h1>
 
 <h3 align="center">
-🎓 IT Student • 💻 Aspiring Software Engineer • 🚀 Lifelong Learner
+🎓 IT Student • 💻 Software Engineer • 🚀 Lifelong Learner
 </h3>
 
 <br>
@@ -17,9 +17,9 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I'm an Information Technology student passionate about building software and solving real-world problems.<br><br>
+I'm an Software Engineer student passionate about building software and solving problems.<br><br>
 
-I focus on developing practical skills through projects involving <b>web development, systems design, and full-stack applications</b>.  
+I focus on developing practical skills through projects involving <b>web development mobile development, systems design and architecture, and full-stack applications</b>.  
 I enjoy exploring how systems work internally and continuously improving my engineering mindset.
 I also love gaming and learning to code games.<br><br>
 
@@ -30,7 +30,6 @@ I also love gaming and learning to code games.<br><br>
 <li>Full-Stack Development</li>
 <li>System Design Fundamentals</li>
 <li>Game Development</li>
-<li>Docker & DevOps Basics</li>
 </ul>
 
 📚 Interests:
@@ -38,6 +37,7 @@ I also love gaming and learning to code games.<br><br>
 <li>Distributed Systems</li>
 <li>Web & Backend Development</li>
 <li>Game Development</li>
+<li>DevOps and Cloud</li>
 </ul>
 
 ⚡ Goal: Become a professional Software Engineer who builds scalable and reliable systems.<br>
